@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
+    "id": "nodebb-theme-granotas",
+    "name": "Granotas",
+    "description": "Template de granotas",
     "url": "https://github.com/nodebb/nodebb-theme-quickstart"
 }

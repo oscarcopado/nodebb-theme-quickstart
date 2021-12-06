@@ -1,7 +1,7 @@
 {
-    "name": "nodebb-theme-quickstart",
+    "name": "nodebb-theme-granotas",
     "version": "0.1.0",
-    "description": "Enter a description here",
+    "description": "Granotas.net",
     "main": "theme.less",
     "keywords": [],
     "license": "MIT",
@@ -29,5 +29,17 @@
         "eslint-plugin-import": "2.x",
         "husky": "5.0.9",
         "lint-staged": "10.5.4"
-    }
+    },
+    "author": {
+        "name": "Oscar Copado",
+        "email": "oscar.copado@gmail.com",
+        "url": "https://granotas.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oscarcopado/nodebb-theme-quickstart"
+    },
+    "bugs": {
+        "url": "https://github.com/oscarcopado/nodebb-theme-quickstart/issues"
+    }    
 }
